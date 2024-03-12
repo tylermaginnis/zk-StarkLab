@@ -1,0 +1,27 @@
+# Rust related
+/target/
+Cargo.lock
+*.rs.bk
+
+# Editor/IDE specific
+.vscode/
+.idea/
+.vs/
+
+# Compiled files
+*.rsproj
+*.rsproj.lock
+*.exe
+*.dSYM/
+*.dll
+*.so
+*.dylib
+*.rlib
+*.rmeta
+
+# Dependency directories
+# Uncomment if you want to exclude all Cargo dependencies
+# /cargo/
+
+# Environment file
+
